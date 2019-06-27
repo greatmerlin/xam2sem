@@ -30,7 +30,7 @@ public class Main {
          */
 
         /*
-        * square all the odd numbers from 1 to 10 and calculate their total (sum) 
+        * square all the odd numbers from 1 to 10 and calculate their total (sum)
         *
         * */
 

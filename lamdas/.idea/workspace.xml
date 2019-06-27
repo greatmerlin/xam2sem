@@ -82,6 +82,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -129,12 +130,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561582693858</updated>
       <workItem from="1561582695114" duration="1646000" />
-      <workItem from="1561584522902" duration="3047000" />
+      <workItem from="1561584522902" duration="3048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4693000" />
+    <option name="totallyTimeSpent" value="4694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -169,7 +170,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Messages" order="9" weight="0.32760417" />
-      <window_info active="true" anchor="right" id="Run" order="10" visible="true" weight="0.21302083" />
+      <window_info anchor="right" id="Run" order="10" weight="0.21302083" />
       <window_info anchor="right" id="Maven" order="11" />
     </layout>
   </component>
