@@ -51,7 +51,7 @@ public class Processor {
             scanner.nextLine(); // waits until i press the return key
             System.out.println("return key pressed");
             notify(); // after the enter key is being pressed notify will be executed
-            // Thread.sleep(5000);
+//             Thread.sleep(5000);
 
         }
     }
