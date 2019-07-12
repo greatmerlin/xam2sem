@@ -10,13 +10,13 @@ public class Demo {
 
         LinkedList<String> placesTovisit = new LinkedList<>();
 
-/*        placesTovisit.add("Sydney");
-        placesTovisit.add("Salonica");
-        placesTovisit.add("Athens");
-        placesTovisit.add("Munchen");
-        placesTovisit.add("Bern");
-        placesTovisit.add("Zurich");
-        placesTovisit.add("Basel");*/
+/*        placesTovisit.add("bedroom");
+        placesTovisit.add("diningRoom");
+        placesTovisit.add("hall");
+        placesTovisit.add("toilet");
+        placesTovisit.add("gurstRoom");
+        placesTovisit.add("kitchen");
+        placesTovisit.add("livingRoom");*/
 
         addInOrder(placesTovisit, "Thess");
         addInOrder(placesTovisit, "Ath");
