@@ -18,7 +18,7 @@ public class Main {
 
         System.out.println();
 
-        Animal animal = new Animal();
+//        Animal animal = new Animal();   because it's abstract
 
         System.out.println();
 
@@ -57,5 +57,21 @@ public class Main {
 
         System.out.println(doggy.getWeight());
 
+        System.out.println();
+
+        pug.moveTheTailSpeed();
+        System.out.println("a dog can run: " + dog.runs());
+
+        System.out.println();
+
+        Cat cat = new Cat();
+
+        cat.two();
+
+        System.out.println();
+
+        System.out.println(dog.firstCalc() + dog.secondCalc());
+        System.out.println(cat.firstCalc() + cat.secondCalc());
+        cat.testHop();
     }
 }

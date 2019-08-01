@@ -1,6 +1,6 @@
 package FFHS;
 
-public class Animal {
+public abstract class Animal {
 
     private int legs = 4;
     private String name;
@@ -33,4 +33,7 @@ public class Animal {
     public double getWeight(){
         return 10;
     }
+
+    abstract void eat();
+
 }
