@@ -20,11 +20,11 @@ public class Main {
         System.out.println("Retrieve key Wilson: " + ht.get("Wilson"));
         System.out.println("Retrieve key Smith: " + ht.get("Smith"));
 
-//        ht.remove("Wilson");
-//        ht.remove("Jones");
+        ht.remove("Wilson");
+        ht.remove("Jones");
         ht.printHashtable();
 
-        System.out.println("Retrieve key Smith: " + ht.get("Smith"));
+        System.out.println("Retrieve key Smith: " + ht.get("Smith")); // because in the remove Method we remove null employees -> Solution: rehashing, but we lose the O(1)
 
 
 
